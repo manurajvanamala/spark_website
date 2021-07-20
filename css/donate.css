@@ -46,6 +46,8 @@ button{
 button:hover{
     background-color:rgb(23, 205, 231);
 }
+
+
 #smart-button-container input:hover{
     background-color: #eabf9f;
 }
