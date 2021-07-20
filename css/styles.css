@@ -114,6 +114,13 @@ h3{
        text-align:left;
     }
 
+    #template{
+         height:100%;
+         width:100%;
+         background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/book2.jpg);
+         background-size:cover;
+    }
+
 }
 #contact{
    padding : 50px 0px;
