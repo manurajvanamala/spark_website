@@ -51,3 +51,16 @@ button:hover{
 #smart-button-container input:hover{
     background-color: #eabf9f;
 }
+
+
+@media (max-width: 1028px)
+{
+     body{
+            width:80%;
+            position:absolute;
+            margin-top:100px;
+            margin-left:60px;
+            align-items:center;
+
+     }
+}
